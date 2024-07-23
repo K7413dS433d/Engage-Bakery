@@ -23,4 +23,3 @@ https://github.com/user-attachments/assets/dee21333-3801-4e54-be69-da3e53f4bba4
 > [!NOTE]
 > This website is not responsive and is designed for desktop viewing only.
 
-<br>
