@@ -20,20 +20,6 @@ For a visual walkthrough of the site, you can watch the video here:
 
 https://github.com/user-attachments/assets/dee21333-3801-4e54-be69-da3e53f4bba4
 
-## Usage
-
-To run this project locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/engage-bakery.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd engage-bakery
-   ```
-3. Open `index.html` in your preferred web browser.
-
 > [!NOTE]
 > This website is not responsive and is designed for desktop viewing only.
 
