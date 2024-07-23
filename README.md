@@ -34,6 +34,7 @@ To run this project locally:
    ```
 3. Open `index.html` in your preferred web browser.
 
-> **Note**: This website is not responsive and is designed for desktop viewing only.
+> [!NOTE]
+> This website is not responsive and is designed for desktop viewing only.
 
 <br>
