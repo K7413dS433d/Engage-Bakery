@@ -16,7 +16,9 @@ You can view the live demo of the website here: [Engage Bakery Live Demo](https:
 
 ## Video
 
-For a visual walkthrough of the site, you can watch the video here: [Engage Bakery Walkthrough](#)
+For a visual walkthrough of the site, you can watch the video here:
+
+https://github.com/user-attachments/assets/dee21333-3801-4e54-be69-da3e53f4bba4
 
 ## Usage
 
@@ -32,8 +34,6 @@ To run this project locally:
    ```
 3. Open `index.html` in your preferred web browser.
 
-**Note**: This website is not responsive and is designed for desktop viewing only.
+> **Note**: This website is not responsive and is designed for desktop viewing only.
 
----
-
-Feel free to adjust the links and any other details as needed!
+<br>
