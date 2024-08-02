@@ -2,7 +2,7 @@
 
 ## Overview
 
-Engage Bakery is a simple static website developed as part of my first project with Route Company. It showcases a clean design using HTML and CSS, with minimal JavaScript utilized solely for the navigation bar. The project highlights fundamental web development skills and provides a foundation for future, more complex projects.
+Engage Bakery is a simple static website developed as part of my first project with Route Academy. It showcases a clean design using HTML and CSS, with minimal JavaScript utilized solely for the navigation bar. The project highlights fundamental web development skills and provides a foundation for future, more complex projects.
 
 ## Technology Used
 
